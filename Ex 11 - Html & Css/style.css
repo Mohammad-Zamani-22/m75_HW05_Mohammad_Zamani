@@ -1,0 +1,119 @@
+#logo{
+    text-align: center;
+}
+
+#wel{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: initial;
+    color: white;
+}
+
+#wel2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: initial;
+   
+    color: white;
+}
+
+#header{
+
+    text-align: center;
+    font-family: sans-serif;
+    font-style: initial;
+    background-color: rgb(67, 73, 73);
+}
+
+#header #wel{
+
+    font-size: 50px;
+    background-color: rgb(67, 73, 73);
+}
+
+
+.flex-container {
+    display: flex;
+    font-size: large;
+    background-color: rgb(57, 64, 71);
+}
+     
+.flex-container > div {
+    background-color: #d6d3d3;
+    margin: 20px;
+    padding: 70px;
+    font-size: 20px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+
+.flex-container2 {
+    display: flex;
+    margin: 0px;
+    padding: 70px;
+    font-size: 20px; 
+    background-color: rgb(33, 31, 158);
+  }
+  
+
+
+@font-face{
+    font-family: "SquarePeg-Regular" , sans-serif;
+    src: url("./SquarePeg-Regular.ttf") format("truetype");
+    font-weight: 50px;
+}
+
+#develop{
+    margin: 1px;
+  
+    font-size: larger;
+    background-color: rgb(137, 130, 130);
+    border-radius: 5px;
+    padding: 50px;
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#develop2{
+    border: 0px solid #fff;
+    border-radius: 5px;
+    
+    background-color: rgb(156, 153, 153);
+    font-size: larger;
+    padding: 60px;
+    font-size: 20;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#btn1{
+    margin: 50px;
+    font-size: 18px;
+    padding: 15px;
+    color: bisque;
+    background-color: rgb(47, 47, 48);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Haettes, serif
+    
+}
+
+
+
+.footer{
+    font-family: sans-serif;
+    
+    background-color: rgb(96, 93, 93);
+    width: 100%;
+}
+
+#right-foo{
+    float: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#About a{
+    color: rgb(12, 11, 11);
+    text-decoration: none;
+    font-size: 20px;
+    
+}
